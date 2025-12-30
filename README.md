@@ -3,6 +3,10 @@
 [![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-red)](#)
 
+[![Télécharger](https://img.shields.io/badge/Télécharger-FlashMcQueenDownloader.exe-blue?style=for-the-badge)](https://github.com/Zelthis/flash_mcqueen_downloader/releases/download/v1.0/FlashMcQueenDownloader.exe)
+
+
+
 Un **téléchargeur rapide et moderne pour Windows**, aussi rapide que Flash McQueen. Télécharge des fichiers via plusieurs threads pour booster la vitesse.  
 
 ---

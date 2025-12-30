@@ -49,7 +49,7 @@ Un **téléchargeur rapide et moderne pour Windows**, inspiré par Flash McQueen
 
 ## 📦 Installation
 
-1. Télécharge la dernière release depuis [Releases](https://github.com/ton-compte/FlashMcQueenDownloader/releases).  
+1. Télécharge la dernière release ou directement l'éxécutable [ici](https://github.com/Zelthis/flash_mcqueen_downloader/releases/download/v1.0/FlashMcQueenDownloader.exe).  
 2. Télécharge `FlashMcQueenDownloader.exe` dans le dossier de ton choix.  
 3. Lance l’exécutable (aucune installation supplémentaire requise).  
 

@@ -41,7 +41,8 @@ Un **téléchargeur rapide et moderne pour Windows**, inspiré par Flash McQueen
 
 ## 🎨 Screenshots
 
-![Main Window](screenshots/main_window.png)
+![Main Window](kachow.png)
+
 *Interface moderne avec barre de progression et options multi-thread*
 
 ---

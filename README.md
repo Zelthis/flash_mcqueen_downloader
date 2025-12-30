@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-red)](#)
 
-Un **téléchargeur rapide et moderne pour Windows**, inspiré par Flash McQueen. Télécharge des fichiers via plusieurs threads pour booster la vitesse.  
+Un **téléchargeur rapide et moderne pour Windows**, aussi rapide que Flash McQueen. Télécharge des fichiers via plusieurs threads pour booster la vitesse.  
 
 ---
 
@@ -54,11 +54,3 @@ Un **téléchargeur rapide et moderne pour Windows**, inspiré par Flash McQueen
 3. Lance l’exécutable (aucune installation supplémentaire requise).  
 
 ---
-
-## ⚙ Requirements (for dev)
-
-Si tu veux compiler ou modifier le projet :  
-
-```bash
-Python 3.14+
-pip install -r requirements.txt
